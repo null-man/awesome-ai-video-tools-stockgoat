@@ -47,6 +47,9 @@
 - [HeyGen](https://heygen.com) — AI avatar videos
 - [Synthesia](https://synthesia.io) — Training and explainer videos
 - [GrokVideo Studio](https://grokvideogenerator.dev) — Independent text/image-to-video via xAI Grok Imagine API (not official xAI/X); free trial
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) — Independent AI: two photos → 13s studio dance video (Paid)
+- [Bad Times AI](https://badtimesai.dev) — Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) — Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 
 ---
 
