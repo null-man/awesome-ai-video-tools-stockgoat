@@ -46,6 +46,7 @@
 - [Pika](https://pika.art) — Creative video generation
 - [HeyGen](https://heygen.com) — AI avatar videos
 - [Synthesia](https://synthesia.io) — Training and explainer videos
+- [GrokVideo Studio](https://grokvideogenerator.dev) — Independent text/image-to-video via xAI Grok Imagine API (not official xAI/X); free trial
 
 ---
 
